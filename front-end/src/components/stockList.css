@@ -1,0 +1,99 @@
+.watchlist-title-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 430px;
+}
+
+.button-watchlist{
+    width: 120px;
+    background: none;
+    border: none;
+    color: rgb(150, 150, 146);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+h2{
+    color: beige;
+    font-family: roboto;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+span{
+    color: beige;
+}
+.container-stosks{
+    width: 95%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.stock-price-container{
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    align-items: flex-end;
+}
+.stock-name{
+    color: beige;
+    font-family: roboto;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.stock-name-description{
+    color: rgb(150, 150, 146);
+    font-family: roboto;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.price{
+    color: beige;
+    font-family: roboto;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 10px 0 0 0;
+
+}
+.price-negative{
+    color: rgb(241, 23, 23);
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+.price-positive{
+    color: rgb(53, 223, 53);
+    margin: 0;
+}
+
+.container-stosk-names{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+}
+.watchlist-logo{
+    width: 45px;
+    border: solid 1px black;
+    border-radius: 50%;
+    background-color: white;
+}
+
+.arrow-right{
+    color: rgb(150, 150, 146);
+}
+
+.arrow-down{
+    color: rgba(241, 23, 23, 0.829);
+    margin-right: 5px;
+}
+
+.arrow-up{
+    color: rgb(53, 223, 53);
+}
