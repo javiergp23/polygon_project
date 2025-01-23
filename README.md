@@ -59,17 +59,17 @@ root/
 │   ├── node_modules/  
 │   ├── .env  
 │   ├── package.json  
-│   ├── server.js
-│   ├── utils/
-│   ├── controllers/
-│   ├── routes/
-├── front-end/
-│   ├── node_modules/
-│   ├── package.json
-│   ├── vite.config.js
-│   ├── public/
-│   └── src/
-│       ├── components/
-│       ├── services/
-└── README.md
+│   ├── server.js  
+│   ├── utils/  
+│   ├── controllers/  
+│   ├── routes/  
+├── front-end/  
+│   ├── node_modules/  
+│   ├── package.json  
+│   ├── vite.config.js  
+│   ├── public/  
+│   └── src/  
+│       ├── components/  
+│       ├── services/  
+└── README.md  
 
