@@ -54,11 +54,11 @@ Run the frontend in development mode:
 npm run dev
 The frontend will run on port 5173 by default (configurable in vite.config.js).
 
-root/
-├── back-end/
-│   ├── node_modules/
-│   ├── .env
-│   ├── package.json
+root/  
+├── back-end/  
+│   ├── node_modules/  
+│   ├── .env  
+│   ├── package.json  
 │   ├── server.js
 │   ├── utils/
 │   ├── controllers/
